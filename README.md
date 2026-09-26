@@ -7,8 +7,8 @@ I am currently building my hardware engineering foundation through independent s
 ## Education
 
 **Purdue University**🔨 Class of 2024
-B.S. Industrial Engineering  
-Minor in Statistics
+
+B.S. Industrial Engineering; Minor in Statistics
 
 ## Current Focus
 
