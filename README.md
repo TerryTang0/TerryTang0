@@ -2,7 +2,7 @@
 
 I'm interested in **computer architecture, digital design, RTL, and ASIC design**.
 
-I am currently building my hardware engineering foundation through independent study and hands-on projects, including some UC Berkeley coursework.
+I am currently building my computer engineering foundation through self study and hands-on projects, including some UC Berkeley coursework.
 
 ## Education
 
