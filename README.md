@@ -27,7 +27,7 @@ If you are a recruiter, admissions reviewer, or collaborator and would like to s
 
 ### CS61C — Computer Architecture (Machine Structures)
 
-- [Main page](https://github.com/TerryTang0/cs61c-self-study)
+- [Main page (Labs & Projects)](https://github.com/TerryTang0/cs61c-self-study)
 - [Project 1 - Snake game in C](https://github.com/TerryTang0/cs61c-self-study/tree/main/proj1)
 - [Project 2 - RISC-V Assembly Neural Network Classifier](https://github.com/TerryTang0/cs61c-self-study/tree/main/proj2)
 - [Project 3 - RV32I Pipelining CPU](https://github.com/TerryTang0/cs61c-self-study/tree/main/proj3)
