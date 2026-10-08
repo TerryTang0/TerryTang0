@@ -32,7 +32,7 @@ If you are a admissions reviewer, recruiter, or collaborator and would like to s
 - [Project 2 - RISC-V Assembly Neural Network Classifier](https://github.com/TerryTang0/cs61c-self-study/tree/main/proj2)
 - [Project 3 - RV32I Pipelining CPU](https://github.com/TerryTang0/cs61c-self-study/tree/main/proj3)
 
-### EECS 251A — Intro to Digital Design and Integrated Circuits
+### EECS 151 — Intro to Digital Design and Integrated Circuits
 
 - [Homework & Discussion](https://github.com/TerryTang0/eecs251a-homework-discussion)
 - [ASIC Labs](https://github.com/TerryTang0/eecs251a-asic-lab-sp26)
