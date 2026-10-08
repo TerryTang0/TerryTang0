@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm interested in **computer architecture, digital design, RTL, and ASIC design**.
+I'm interested in **computer architecture, digital design, VLSI and ASIC design**.
 
 I am currently building my computer engineering foundation through self study and hands-on projects, including some UC Berkeley coursework.
 
@@ -13,9 +13,9 @@ B.S. Industrial Engineering; Minor in Statistics
 ## Current Focus
 
 - RISC-V computer architecture
-- Digital logic and RTL design
 - 5-stage pipelined CPU design
 - ASIC design flow
+- Digital logic and RTL design
 - Verilog / SystemVerilog
 - VLSI
 
@@ -23,7 +23,7 @@ B.S. Industrial Engineering; Minor in Statistics
 
 To respect course academic-integrity policies, my repos containing UC Berkeley coursework are kept private.
 
-If you are a recruiter, admissions reviewer, or collaborator and would like to see my work, feel free to contact me for access.
+If you are a admissions reviewer, recruiter, or collaborator and would like to see my work, feel free to contact me for access.
 
 ### CS61C — Computer Architecture (Machine Structures)
 
