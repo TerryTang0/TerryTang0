@@ -40,6 +40,10 @@ If you are a admissions reviewer, recruiter, or collaborator and would like to s
 ### CS61C — Computer Architecture (Machine Structures)
 
 - [Main page (Labs & Projects)](https://github.com/TerryTang0/cs61c-self-study)
+
+## My Research at Purdue
+
+- [Pulse-Based Music Genre Classification with Piezoelectric Sensor and Machine-learning Models](https://github.com/TerryTang0/piezoelectric-music-classifier)
 - [Project 1 - Snake game in C](https://github.com/TerryTang0/cs61c-self-study/tree/main/proj1)
 - [Project 2 - RISC-V Assembly Neural Network Classifier](https://github.com/TerryTang0/cs61c-self-study/tree/main/proj2)
 - [Project 3 - RV32I Pipelining CPU](https://github.com/TerryTang0/cs61c-self-study/tree/main/proj3)
