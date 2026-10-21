@@ -19,6 +19,18 @@ B.S. Industrial Engineering; Minor in Statistics
 - Verilog / SystemVerilog
 - VLSI
 
+## Undergraduate Research — Purdue University
+
+**Pulse-Based Music Genre Classification | FLEX Lab**
+
+During my undergraduate research, I fabricated piezoelectric sensors and used them to measure my own pulse while listening to different types of music. I wanted to see whether the pulse signals could help predict the music genre without analyzing the audio itself.
+
+- Fabricated **35 sensors**, with **3** producing stable pulse measurements for testing.
+- Selected **26 recordings across six genres** from a larger set of measurements and extracted **19 signal features** using Python.
+- Compared **five machine-learning models** using grouped cross-validation. **Random Forest** performed best, achieving **52.7% out-of-fold window-level accuracy**.
+
+*The research repository is private; more details are available upon request.*
+
 ## UC Berkeley Coursework
 
 To respect course academic-integrity policies, my repos containing UC Berkeley coursework are kept private.
