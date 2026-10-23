@@ -38,12 +38,16 @@ If you are a admissions reviewer, recruiter, or collaborator and would like to s
 - [ASIC Labs](https://github.com/TerryTang0/eecs251a-asic-lab-sp26)
 - [ASIC Project](https://github.com/TerryTang0/eecs251a-asic-project-sp26)
 
+### EECS 152 — Computer Architecture & Engineering
+
+- [Chipyard Labs](https://github.com/TerryTang0/eecs152-chipyard-labs)
+
 ## My Undergraduate Research at Purdue
 
 **Pulse-Based Music Genre Classification | FLEX Lab**
 
 I built a pulse-based music genre classification, fabricating and using piezoelectric sensors to collect pulse data and utilizing machine-learning models to build up the classification
 
-- [Research Project repo](https://github.com/TerryTang0/piezoelectric-music-classifier)
+- [Research Project](https://github.com/TerryTang0/piezoelectric-music-classifier)
 
-*The research repository is private; more details are available upon request.*
+*The research repo is private; more details are available upon request.*
