@@ -16,7 +16,7 @@ B.S. Industrial Engineering; Minor in Statistics
 - 5-stage pipelined CPU design
 - ASIC design flow
 - Digital logic and RTL design
-- Verilog / SystemVerilog
+- SystemVerilog
 - VLSI
 
 ## UC Berkeley Coursework
